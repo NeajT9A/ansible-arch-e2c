@@ -1,0 +1,4 @@
+- name: install snaps
+  snap: 
+    name: zoom-client
+    state: present 
